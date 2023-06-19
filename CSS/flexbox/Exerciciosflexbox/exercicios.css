@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(221, 182, 132);
+    max-width: 750px;
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    border: 1px solid;
+    padding: 20px 100px;
+}
+section{
+    display: flex ;
+}
+.end{
+    justify-content: end;
+}
+.maio{
+    justify-content: space-between;
+}
+.meio{
+    justify-content: space-around;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.verde{
+    background-color: greenyellow;
+}

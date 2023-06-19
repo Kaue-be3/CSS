@@ -1,0 +1,83 @@
+body{
+    text-align: center;
+}
+header{
+    border: 1px solid;
+    background-color: cyan;
+    margin-top: 5px;
+    height: 50px;
+    width: 275px;
+}
+section{
+    display: flex;
+}
+.esquerda > .esquer{
+    border: 1px solid;
+    background-color: pink;
+    padding: 10px 10px;
+    height: 100px;
+    width: 100px;
+    margin-top: 5px;
+    margin-right: 2px;
+}
+.esquerda > .esque{
+    border: 1px solid;
+    background-color: rgb(72, 148, 72);
+    padding: 10px 10px;
+    height: 130px;
+    width: 100px;
+    margin-top: 5px;
+    margin-right: 2px;
+}
+.esquerda{
+    flex-direction: column;
+}
+.direita > .main{
+    border: 1px solid;
+    background-color: yellow;
+    padding: 10px 10px;
+    height: 180px;
+    width: 130px;
+    margin-top: 5px;
+}
+
+.main{
+    font-size: 12px;
+}
+.direita > .dire{
+    border: 1px solid;
+    background-color: grey;
+    padding: 10px 10px;
+    height: 50px;
+    width: 130px;
+    margin-top: 5px;
+}
+.direita{
+    flex-direction: column;
+}
+
+.baixo > .lado1{
+    border: 1px solid;
+    background-color: rgb(37, 117, 84);
+    margin-top: 5px;
+    height: 60px;
+    width: 170px;
+    margin-right: 2px;
+}
+.baixo > .lado2{
+    border: 1px solid;
+    background-color: pink;
+    height: 60px;
+    width: 100px;
+    margin-top: 5px;
+}
+.baixo{
+    display: flex;
+}
+footer{
+    border: 1px solid;
+    background-color: rgb(202, 202, 11);
+    margin-top: 5px;
+    height: 50px;
+    width: 275px;
+}

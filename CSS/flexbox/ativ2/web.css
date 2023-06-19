@@ -1,0 +1,80 @@
+header{
+    background: url(imagens/download\ \(2\).jfif) no-repeat center / cover;
+    text-align: center;
+    border: 1px solid;
+    height: 50vh;
+}
+.cen > .img{
+    justify-content: center;
+}
+.cen{
+    color: aliceblue;
+}
+.cen > h1{
+    font-size: 55px;
+    margin: 0 0;
+}
+.img{
+    display: flex;
+}
+.img{
+    margin: 0 610px;
+    margin-top: 10px;
+}
+nav > img{
+    border: 2px solid;
+    margin-bottom: 0;
+}
+nav{
+    margin-top: 5px;
+    text-align: center;
+}
+nav > a{
+    margin-right: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+}
+article{
+    margin-top: 20px;
+    text-align: center;
+}
+article > .texto2{
+    margin: auto ;
+    text-align: justify;
+    width: 500px;
+}
+.foto{
+    display: flex;
+}
+.foto{
+    justify-content: space-evenly;
+}
+.direi > a{
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+footer{
+    background-color: black;
+    height: 210px;
+    color: aliceblue;
+}
+.direi > h1{
+    margin: 10px 50px;
+}
+.direi > .texto{
+    width: 1010px;
+    margin: 10px 40px;
+}
+footer > img2{
+    margin: 30px;
+}
+footer{
+    display: flex;
+}

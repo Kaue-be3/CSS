@@ -1,0 +1,25 @@
+body{
+    background-color: #262737;
+    color: aquamarine;
+}
+.box{
+    border: 1px solid blueviolet;
+    padding: 70px;
+}
+article h1{
+    text-align: center;
+}
+article p{
+    text-align: justify;
+}
+article .boxpaddin{
+    border: 1px solid goldenrod;
+    padding-top: 50px; 
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+section .boxpaddin{
+    border: 3px solid darkolivegreen;
+    padding: 25px 50px 75px 100px; 
+}

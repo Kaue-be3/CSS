@@ -1,0 +1,14 @@
+section > div{
+    background-color: aqua;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    width: 100px;
+}
+section{
+    width: 1000px;
+    background-color: rgb(172, 253, 90);
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}

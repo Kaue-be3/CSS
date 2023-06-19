@@ -1,0 +1,17 @@
+.grid{
+    max-width: 600px;
+    margin: auto;
+    display: grid;
+    border: 1px solid;
+}
+.item{
+    margin: 2px;
+    background-color: rgb(43, 83, 78);
+    border: 1px solid;
+}
+.grid1{
+    grid-template-columns: 200px 200px 200px;
+}
+.grid2{
+    grid-template-columns: 1fr 2fr;
+}

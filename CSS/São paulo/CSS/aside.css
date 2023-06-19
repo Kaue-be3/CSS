@@ -1,0 +1,36 @@
+aside{
+    background-color: #fffbe4;
+    border: 1px solid #c9bc8f;
+    padding: 10px;
+    float: right;
+    width: 260px;
+
+}
+
+aside h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+
+aside ol{
+    font-size: 12px;
+}
+
+.a{
+    aside{
+        background-color: #fffbe4;
+        border: 1px solid #c9bc8f;
+        padding: 10px;
+        float: right;
+        width: 260px;
+    }
+    
+    aside h3{
+        font-size: 14px;
+        margin-top: 0;
+    }
+    
+    aside ol{
+        font-size: 12px;
+    }
+}
